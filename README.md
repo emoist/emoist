@@ -1,1 +1,4 @@
-## 👋 Welcome!, I'm a Developer 🚀 from Pole, and open to YOU!
+## 👋 Welcome!
+<p align="center">
+  <img align="center" src="./imgs/header.png" style = "width: -webkit-fill-available;"/>
+</p>
